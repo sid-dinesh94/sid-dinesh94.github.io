@@ -1,6 +1,11 @@
 theme: jekyll-theme-cayman
 name: Siddharth Dinesh
 markdown: kramdown
-
+exclude: [Gemfile,Gemfile.lock, vendor, .bundle]
 repository: sid-dinesh94/sid-dinesh94.github.io
 permalink: /blog/:year/:month/:day/:title
+twitter_username: Sid_dinesh94
+github_username: sid-dinesh94
+linkedin_username: siddharth-dinesh-32a391135
+google_plus_username: +SidDinesh
+facebook_username: sid.dinesh

@@ -5,15 +5,16 @@
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
 	<!-- link to main stylesheet -->
 	<link rel="stylesheet" type="text/css" href="/css/main.css">
+
 </head>
 <body>
 	<nav>
 		<ul>
 			<li><a href="/">Home</a></li>
-			<li><a href="/about">About</a></li>
 			<li><a href="/cv">CV</a></li>
 			<li><a href="/blog">Blog</a></li>
 			<li><a href="/projects">Projects</a></li>
+			<li><a href="/competitions">Competitions</a></li>
 		</ul>
 	</nav>
 	<div class="container">
@@ -23,8 +24,41 @@
 	</div><!-- /.container -->
 	<footer>
 		<ul>
-			<li><a href="mailto:sidnik3@gmail.com">email</a></li>
-			<li><a href="https://github.com/sid-dinesh94">github.com/sid-dinesh94</a></li>
+			{% if site.twitter_username %}
+			<li>
+				<a href="https://twitter.com/{{ site.twitter_username }}">
+					<i class="fa fa-twitter"></i> Twitter
+				</a>
+			</li>
+			{% endif %}
+			{% if site.github_username %}
+			<li>
+				<a href="https://github.com/{{ site.github_username }}">
+					<i class="fa fa-github"></i> GitHub
+				</a>
+			</li>
+			{% endif %}
+			{% if site.linkedin_username %}
+			<li>
+				<a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+					<i class="fa fa-linkedin"></i> LinkedIn
+				</a>
+			</li>
+			{% endif %}
+			{% if site.facebook_username %}
+			<li>
+				<a href="https://www.facebook.com/{{ site.facebook_username }}">
+					<i class="fa fa-facebook"></i> Facebook
+				</a>
+			</li>
+			{% endif %}
+			{% if site.google_plus_username %}
+			<li>
+				<a href="https://plus.google.com/{{ site.google_plus_username }}">
+					<i class="fa fa-google-plus"></i> Google+
+				</a>
+			</li>
+			{% endif %}
 		</ul>
 	</footer>
 </body>
