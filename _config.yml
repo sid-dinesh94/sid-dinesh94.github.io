@@ -2,5 +2,5 @@ theme: jekyll-theme-cayman
 name: Siddharth Dinesh
 markdown: kramdown
 
-
+repository: sid-dinesh94/sid-dinesh94.github.io
 permalink: /blog/:year/:month/:day/:title

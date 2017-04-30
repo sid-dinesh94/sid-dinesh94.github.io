@@ -1,1 +1,6 @@
 _site/
+.bundle/
+vendor
+.jekyll-metadata
+Gemfile
+Gemfile.lock
