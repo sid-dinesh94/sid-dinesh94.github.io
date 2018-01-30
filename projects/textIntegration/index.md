@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: isolation
 title: Text Integration 
 ---
 
