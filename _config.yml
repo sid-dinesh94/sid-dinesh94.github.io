@@ -9,3 +9,8 @@ github_username: sid-dinesh94
 linkedin_username: siddharth-dinesh-32a391135
 google_plus_username: +SidDinesh
 facebook_username: sid.dinesh
+defaults:
+  - scope:
+      path: "projects/textIntegration/"
+    values:
+      layout: isolation
