@@ -13,3 +13,5 @@ The accessible examples are:
 * <h2><a href="24_cluster5.html">Cluster 5</a></h2>
 * <h2><a href="24_cluster6.html">Cluster 6</a></h2>
 * <h2><a href="24_cluster7.html">Cluster 7</a></h2>
+* <h2><a href="24_cluster8.html">Cluster 8</a></h2>
+* <h2><a href="24_cluster9.html">Cluster 9</a></h2>
