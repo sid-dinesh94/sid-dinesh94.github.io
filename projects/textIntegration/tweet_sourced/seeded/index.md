@@ -1,6 +1,6 @@
 ---
 layout: isolation
-title: Without Retweets
+title: Search using Seeded Hashtags 
 ---
 
 This folder has the examples created using *Seed hashtags*. There are two folders. 

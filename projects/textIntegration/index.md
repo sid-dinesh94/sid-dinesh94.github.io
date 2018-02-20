@@ -3,14 +3,9 @@ layout: isolation
 title: Text Integration 
 ---
 
-The examples are laid out into three folders. 
-* ## Seed Hashtags: <a href="seeded">Link to seeded</a>
-* ## Random hashtags without removal of retweets: <a href="withRT">Link to random with Retweets present</a>
-* ## Random hashtags with retweets removed: <a href="withoutRT">Link to random with Retweets removed</a>
-* ## Clustered Leftover Tweets: <a href="clustered">Link to examples of clustered leftover tweets</a>
+The examples are laid out based on whether events are sourced from Tweets or News Articles.
+Various methods of clustering and grouping are applied to the source to generate events.
 
-The seed hashtag folder is further divided into:
-* ## Examples with retweets removed 
-* ## Examples without retweets removed
+* ## Tweet sourced events: <a href="tweet_sourced">Link to tweet sourced events</a>
+* ## News sourced events: <a href="news_sourced">Link to news sourced events</a>
 
-The seed hashtags have been taken from the Politics and Finance seeds provided to me. 
