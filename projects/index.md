@@ -14,9 +14,9 @@ Here I list all the projects that I have been a part of so far, in roughly rever
 * ### SmartReply system at GoDaddy
 	Jun 2018 - Sep 2018
 	
-	I built a response suggestion system that displays potential answers to incoming text messages on the SmartLine mobile app. This work involved Natural Language Processing, Neural Networks, Platform development, as well as Android development. This is a poster detailing my work. 
+	I built a response suggestion system that displays potential answers to incoming text messages on the SmartLine mobile app. This work involved Natural Language Processing, Neural Networks, Platform development, as well as Android development. A poster detailing my work can be found [here](/docs/Poster.pdf). 
 	
-[<img border="0" alt="GoDaddy Poster" class="center" src="/docs/Poster.jpg" width="500" height="300" >](/docs/Poster.pdf)
+<img border="0" alt="GoDaddy Poster" class="center" src="/docs/Poster.jpg" width="500" height="300" >
 	
 * ### Mr. DLib - Evaluating Research Paper Recommender Systems
 	Aug 2016 - Jul 2017
