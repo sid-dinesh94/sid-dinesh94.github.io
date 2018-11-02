@@ -15,7 +15,7 @@ Here I list all the projects that I have been a part of so far, in roughly rever
 	Jun 2018 - Sep 2018
 	
 	I built a response suggestion system that displays potential answers to incoming text messages on the SmartLine mobile app. This work involved Natural Language Processing, Neural Networks, Platform development, as well as Android development. This is a poster detailing my work. <a href="/docs/Poster.pdf">
-<img border="0" alt="W3Schools" src="docs/Poster.jpg" width="100" height="100">
+<img border="0" alt="GoDaddy Poster" src="/docs/Poster.jpg" width="100" height="100">
 </a>
 	
 * ### Mr. DLib - Evaluating Research Paper Recommender Systems
