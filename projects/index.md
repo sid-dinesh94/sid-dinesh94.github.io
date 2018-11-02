@@ -13,9 +13,7 @@ Here I list all the projects that I have been a part of so far, in roughly rever
 	
 * ### SmartReply system at GoDaddy
 	Jun 2018 - Sep 2018
-	
 	I built a response suggestion system that displays potential answers to incoming text messages on the SmartLine mobile app. This work involved Natural Language Processing, Neural Networks, Platform development, as well as Android development. A poster detailing my work can be found [here](/docs/Poster.pdf). 
-	
 <img border="0" alt="GoDaddy Poster" class="center" src="/docs/Poster.jpg" width="500" height="300" >
 	
 * ### Mr. DLib - Evaluating Research Paper Recommender Systems
@@ -26,6 +24,5 @@ Here I list all the projects that I have been a part of so far, in roughly rever
 * ### Generating Topic Heirarchies from Text data
 * ### Image To Poem Convertor
 	I created a web-app that will search for a relevant poem for an image of the user's choosing and presents it to the user. The github repository is <a href="https://github.com/sakshiudeshi/ImageToPoetryConverter"> here </a>. I do not have a working deployment right now, but it an be rebooted from the repository.
-	
 	<img border = "0" alt="John Keat's Poem relevant to the image of an eagle" class="center" src="/projects/image2poem.png" width="500" height="300">
 * ### Benchmarking UCI-ML Datasets for a hidden layer neural network
